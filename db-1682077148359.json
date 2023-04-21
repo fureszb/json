@@ -1,0 +1,34 @@
+{
+  "ADATLISTA": [
+    {
+      "nev": "Dézi",
+      "fajta": "keverék",
+      "kor": 12,
+      "id": 1
+    },
+    {
+      "nev": "Bodri",
+      "fajta": "mudi",
+      "kor": 4,
+      "id": 2
+    },
+    {
+      "nev": "Loki",
+      "fajta": "keverék",
+      "kor": 3,
+      "id": 3
+    },
+    {
+      "nev": "Zuri",
+      "fajta": "foxterrier",
+      "kor": 8,
+      "id": 4
+    },
+    {
+      "nev": "Lappy",
+      "fajta": "Német Juhász",
+      "kor": 4,
+      "id": 5
+    }
+  ]
+}
